@@ -1,3 +1,6 @@
+**Creating Entire VPC set up with a Public Subnet and level up an EC2 instance for DEV team to deploy there application and test**
+
+
 # Infrastructure as Code(IaC)
 
 Before the advent of IaC, infrastructure management was typically a manual and time-consuming process. System administrators and operations teams had to:
